@@ -1,0 +1,151 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": true,
+      "maps": false,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+        "name": "Unicorns and Butterflies Add-on!!",
+        "role": "And not just Unicorns and butterflies, there's Alacorns and Pegasus! Pegasuses?!? Pegasi?? Who knows!! They're horses that have wings! What else could possibly matter. AND they come in a crazy variety of colors. With sparkling things going everywhere. Make sure you wear sunglasses.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/1.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/unicorn.v4_1590983439.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/1.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/New Text Document.txt"
+    },
+    
+    {
+        "name": "yFantasy",
+        "role": "yFantasy is here! Bringing magnificent and dangerous resources to your exploration, you can hunt down dangerous vampires, tame baby dragons, trade wizards, meet several new biomes and much more!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/7/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/7/yFantasy v1.0.1.26.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/7/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/7/1.png"
+    },
+    {
+        "name": "2 Seats on Horse v5 - Llama Update",
+        "role": "Do you want to ride a horse with your friends? But you only have 1 horse. Don't worry, this Addon can solve your problem!. This addon allows you to ride a horse with 2 players. you can ride it as easily as you ride a boat. and also can be played on mobile, pc, and console versions. Made by Edsel.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/11/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/11/2.Seats.Horse.v5.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/11/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/11/1.png"
+    },
+    {
+        "name": "Robot Horse Add-on",
+        "role": "This add-on implements a four-legged mechanical horse to the game. It's much more powerful than an ordinary horse since it got the abilities to run faster, withstand more damage and jump higher. The robot revolution is finally here and the first to be replaced is a horse. Who would have known.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/12/3.jpg",
+        "file_url": "https://kossandroid.com//Data Android/Minecraft/Unicorn/12/Robot Horse V2.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/12/1.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/12/2.jpg"
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/9GdGoZzN6LxcBmhJEY64iwbakDgTqzPwZBuuxwMeXwHqYALmNptu9PMdt_9Xb0TKJPKqu0aHIHkEJnumzJQT",
+    "view_skin": "https://lh3.googleusercontent.com/U3J19sKCe4whGbfNGgh1jArB-pk0jvFNhzijbBwSA0jmQ_gUjai5nfvJmI4SzV9YJY8lOvhBXPGagdA3-qKoSw"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/S3bWcT4-vtiw3VmRMRV046yjuUMqCfAxJwkmH3dD-53QCEpWcBtkfZvtJh4u_eGkRrX9hnFzDfFKILruSwQM9Q",
+    "view_skin": "https://lh3.googleusercontent.com/GTlZDmMPf3ji6f1Ho5gx5YlxLLrWbjup0L-IY4ypn06STdqwJTHey1JRVMUeFP172ER9B8e_iwdzlOo_pNuI4-g"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/710HrnbUN0orfcQ8_GVDZAD7OK8FsFYc4f3aJ5j2lCcwumiXQno6U4vyYYhJNFwwS3P2tSoDWFXIH_ATg5Zf",
+    "view_skin": "https://lh3.googleusercontent.com/bjtt8H5wYdaQWblSNg7nmzF3SVgHi0-uyDKUpt5eW3vjT0nCkTbfDKjTpo6NrekZuqbq6kg4CnDCxqAcWmvksA"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/-5SNxF0-PyCbEG7yOEIvCEYiz8SZHe4yDe_p3fgbOwV_swljn8S8aJfdyw0Hqrbs6JznyF2T0struudJnEiOvIU",
+    "view_skin": "https://lh3.googleusercontent.com/jquiEcJSLQcMiIKClIxQHxENA9MILeMSaaRMiOW39nf7Y0ba-oazp-wLTm6brtUFN7dVCz5_iiYd59JsuEu0m9o"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/SOa1Jrl0-nRDhwMdmSCvr3TTarRR2cWpVgk3Y6CO64WBG8-JIRxnvJqSsLfg1bk9XD0x2KN3WbkChJfAq5dVEw",
+    "view_skin": "https://lh3.googleusercontent.com/kkqYYbuTVjXTCuy6MfUx7uerXGVjEDQo-wNVOEpU0xS2Fv0sRleMCeRAQ7VM-5LEQbenCL4HjfXcfKGZ6_V_"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/64Y0VyDbvnnrMzJm_kE6lWMeNmy41rSFp44ZDar-Fef7gtwzL3KIMIU71iP3kxlqsf13IzyAElp_anBKgdbFmYU",
+    "view_skin": "https://lh3.googleusercontent.com/Vb6ggMMZSchPthdSPZJMyA3DPqk6gGpeeQPG7cpCIvBlrUnGxdgeUSAKQu-3nVc0jtKNniGTsNUyPEWchBwj"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/lUhpTxr7iaHqsVnDhZfP3oTFfjxQADfHMO4hV_Itmr-jbSgwSV847spSHu6JMwV_-tXqt1FBsDjGLgLRT4Zn",
+    "view_skin": "https://lh3.googleusercontent.com/Ru6goDS4GxrQ9cQxICncnZMQsqU4G45ya3y3ywtEvMMNnsSZio9cHIW8pQPYjm0FxXcPw09onz85dsYKQ8RxAYs"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
