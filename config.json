@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
+      "addon": false,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,37 +35,12 @@
   ],
   "Addon": [
     {
-        "name": "Unicorns and Butterflies Add-on!!",
-        "role": "And not just Unicorns and butterflies, there's Alacorns and Pegasus! Pegasuses?!? Pegasi?? Who knows!! They're horses that have wings! What else could possibly matter. AND they come in a crazy variety of colors. With sparkling things going everywhere. Make sure you wear sunglasses.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/1.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/unicorn.v4_1590983439.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/1.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/3/New Text Document.txt"
-    },
-    
-    {
-        "name": "yFantasy",
-        "role": "yFantasy is here! Bringing magnificent and dangerous resources to your exploration, you can hunt down dangerous vampires, tame baby dragons, trade wizards, meet several new biomes and much more!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/7/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/7/yFantasy v1.0.1.26.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/7/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/7/1.png"
-    },
-    {
-        "name": "2 Seats on Horse v5 - Llama Update",
-        "role": "Do you want to ride a horse with your friends? But you only have 1 horse. Don't worry, this Addon can solve your problem!. This addon allows you to ride a horse with 2 players. you can ride it as easily as you ride a boat. and also can be played on mobile, pc, and console versions. Made by Edsel.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/11/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/11/2.Seats.Horse.v5.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/11/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/11/1.png"
-    },
-    {
-        "name": "Robot Horse Add-on",
-        "role": "This add-on implements a four-legged mechanical horse to the game. It's much more powerful than an ordinary horse since it got the abilities to run faster, withstand more damage and jump higher. The robot revolution is finally here and the first to be replaced is a horse. Who would have known.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/12/3.jpg",
-        "file_url": "https://kossandroid.com//Data Android/Minecraft/Unicorn/12/Robot Horse V2.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/12/1.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/12/2.jpg"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Map": [
